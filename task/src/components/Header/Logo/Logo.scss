@@ -1,0 +1,19 @@
+.logo-container {
+  text-align: left;
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  .svg-container {
+    width: 15vw;
+    min-width: 210px;
+    background-color: #181d22;
+  }
+
+  a {
+    color: white;
+    pointer-events: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.61rem;
+    letter-spacing: 0.75em;
+  }
+}

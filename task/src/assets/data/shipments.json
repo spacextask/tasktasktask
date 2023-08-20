@@ -1,0 +1,28 @@
+{
+    "shipments": [
+        {
+            "id": "d3ff0c68892",
+            "name": "Amazon",
+            "email": "contact@amazon.com",
+            "boxes": "6.8,7.9,3"
+        },
+        {
+            "id": "lq19sjq91851",
+            "name": "American Express",
+            "email": "hello@amexpress.com",
+            "boxes": "3.9,9.2,5.4,6.6,8"
+        },
+        {
+            "id": "m31askqos01294",
+            "name": "Airbnb",
+            "email": "info@airbnb.com",
+            "boxes": "4.1,4.7,6.9"
+        },
+        {
+            "id": "u731jeur192841",
+            "name": "Apple",
+            "email": "shipments@apple.com",
+            "boxes": "2.6,4,4.5,5.3,4.8"
+        }
+    ]
+}

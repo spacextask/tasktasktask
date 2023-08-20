@@ -1,0 +1,17 @@
+.item-container {
+  display: flex;
+  align-items: center;
+  height: 34px;
+  margin: 16px 50px 16px 0px;
+  border-radius: 10px;
+  background: none;
+  color: rgb(151, 151, 151);
+  cursor: pointer;
+  text-decoration: none;
+
+  &:hover {
+    background: linear-gradient(to left, #2d3038 0%, #181d22 80%);
+    color: white;
+    transition: color 0.2s ease-in-out;
+  }
+}
