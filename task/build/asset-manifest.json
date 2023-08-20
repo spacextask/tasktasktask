@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fe310ae.css",
+    "main.js": "/static/js/main.b39f1949.js",
+    "static/media/SpaceXLogo.svg": "/static/media/SpaceXLogo.38bb16eeb847d0c72178174de30e2fc1.svg",
+    "index.html": "/index.html",
+    "main.1fe310ae.css.map": "/static/css/main.1fe310ae.css.map",
+    "main.b39f1949.js.map": "/static/js/main.b39f1949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe310ae.css",
+    "static/js/main.b39f1949.js"
+  ]
+}
